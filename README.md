@@ -1,2 +1,0 @@
-# naseood.github.io
-SoftuniBlog
